@@ -20,7 +20,7 @@
         </p>
         <ul>
           <li>👩‍🎓 Studying <strong>Computer Engineering at MU</strong></li>
-          <li>🌱 Learning: <strong>Python, Cybersecurity (Ethical Hacking!), Cloud Technologies</strong></li>
+          <li>🌱 Learning: <strong>c, c++, c# ,AI Cybersecurity (Ethical Hacking!), Cloud Technologies</strong></li>
           <li>💬 Interests: <strong>Cybersecurity, Digital Forensics, Ethical Hacking</strong></li>
           <li>✉️ Happy to connect and collaborate anytime!</li>
           <li>🔗 <strong><a href="https://www.linkedin.com/in/shruti-baviskar-919343318/" target="_blank">LinkedIn</a></strong></li>
