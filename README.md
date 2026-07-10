@@ -57,7 +57,7 @@
       <br>MySQL
     </td>
 
-    <td align="center" width="96">
+   <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/javascript" width="48" alt="JavaScript" />
       <br>JavaScript
     </td>
