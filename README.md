@@ -62,16 +62,16 @@
       <br>JavaScript
     </td>
     
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="48" alt="Java" />
-      <br>Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1024px-C_Programming_Language.svg.png" width="48" alt="C" />
-      <br>C
-    </td>
+   <td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java" />
+  <br>Java
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C" />
+  <br>C
+</td>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="48" alt="HTML" />
       <br>HTML
