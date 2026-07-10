@@ -46,18 +46,19 @@
 
 <table align="center">
   <tr>
-     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/>
+    <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/python" width="48" alt="Python" />
       <br>Python
     </td>
 
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/>
+      <img src="https://cdn.simpleicons.org/mysql" width="48" alt="MySQL" />
       <br>MySQL
     </td>
 
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"/>
+      <img src="https://cdn.simpleicons.org/javascript" width="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
