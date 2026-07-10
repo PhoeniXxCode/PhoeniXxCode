@@ -52,7 +52,7 @@
       <br>Python
     </td>
 
-    <td align="center" width="96">
+   <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/mysql" width="48" alt="MySQL" />
       <br>MySQL
     </td>
@@ -61,6 +61,7 @@
       <img src="https://cdn.simpleicons.org/javascript" width="48" alt="JavaScript" />
       <br>JavaScript
     </td>
+    
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="48" alt="Java" />
       <br>Java
